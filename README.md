@@ -1,4 +1,4 @@
-# FLASK API JSON
+# Flask_Api_Json
 ## DESCRIPTION
 Simple task management, this is application building with Python and Flask framework. 
 The application helps to create task, show all task, show selected task and delete selected task. 
@@ -44,8 +44,8 @@ run as python script
 
 run with flask
 
-`python -m flask --app src/app.py run --host 0.0.0.0 --port 8080`
+`python -m flask --app src/app/app.py run --host 0.0.0.0 --port 8080`
 
 run with flask (with debug & autoreload)
 
-`python -m flask --app src/app.py --debug run --host 0.0.0.0 --port 8080`
+`python -m flask --app src/app/app.py --debug run --host 0.0.0.0 --port 8080`
