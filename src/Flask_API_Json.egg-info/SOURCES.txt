@@ -1,0 +1,12 @@
+LICENCE
+README.md
+pyproject.toml
+src/__init__.py
+src/Flask_API_Json.egg-info/PKG-INFO
+src/Flask_API_Json.egg-info/SOURCES.txt
+src/Flask_API_Json.egg-info/dependency_links.txt
+src/Flask_API_Json.egg-info/requires.txt
+src/Flask_API_Json.egg-info/top_level.txt
+src/app/__init__.py
+src/app/app.py
+src/app/json_connection.py
